@@ -4,12 +4,12 @@
 (module.exports = {
   title: 'Physical AI & Humanoid Robotics',
   tagline: 'Comprehensive Course on ROS 2, Gazebo, NVIDIA Isaac, and Vision-Language-Action Systems',
-  url: 'https://moinuddin247.github.io', // Updated to your GitHub username
+  url: 'https://moinuddin2406.github.io', // Updated to your GitHub username
   baseUrl: '/hackathon-physical-ai-book/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'moinuddin247', // Updated to your GitHub username
+  organizationName: 'moinuddin2406', // Updated to your GitHub username
   projectName: 'hackathon-physical-ai-book', // Updated to your repository name
   trailingSlash: false,
 
@@ -21,7 +21,7 @@
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/moinuddin247/hackathon-physical-ai-book/edit/main/',
+          editUrl: 'https://github.com/moinuddin2406/hackathon-physical-ai-book/edit/main/',
         },
         blog: false,
         theme: {
@@ -57,7 +57,7 @@
             label: 'Course Modules',
           },
           {
-            href: 'https://github.com/moinuddin247/hackathon-physical-ai-book',
+            href: 'https://github.com/moinuddin2406/hackathon-physical-ai-book',
             label: 'GitHub',
             position: 'right',
           },
@@ -105,7 +105,7 @@
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/moinuddin247/hackathon-physical-ai-book',
+                href: 'https://github.com/moinuddin2406/hackathon-physical-ai-book',
               },
               {
                 label: 'Login',
