@@ -1,0 +1,53 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/hackathon-physical-ai-book/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/hackathon-physical-ai-book/docs",
+          "mainDocId": "module1/robotic-nervous-system-ros2",
+          "docs": [
+            {
+              "id": "module1/robotic-nervous-system-ros2",
+              "path": "/hackathon-physical-ai-book/docs/module1/robotic-nervous-system-ros2",
+              "sidebar": "docs"
+            },
+            {
+              "id": "module2/digital-twin-gazebo-unity",
+              "path": "/hackathon-physical-ai-book/docs/module2/digital-twin-gazebo-unity",
+              "sidebar": "docs"
+            },
+            {
+              "id": "module3/ai-robot-brain-nvidia-isaac",
+              "path": "/hackathon-physical-ai-book/docs/module3/ai-robot-brain-nvidia-isaac",
+              "sidebar": "docs"
+            },
+            {
+              "id": "module4/vision-language-action-vla",
+              "path": "/hackathon-physical-ai-book/docs/module4/vision-language-action-vla",
+              "sidebar": "docs"
+            },
+            {
+              "id": "rag-interface",
+              "path": "/hackathon-physical-ai-book/docs/rag-interface",
+              "sidebar": "docs"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docs": {
+              "link": {
+                "path": "/hackathon-physical-ai-book/docs/module1/robotic-nervous-system-ros2",
+                "label": "module1/robotic-nervous-system-ros2"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

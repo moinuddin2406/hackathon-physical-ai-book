@@ -1,0 +1,27 @@
+{
+  "id": "module2/digital-twin-gazebo-unity",
+  "title": "The Digital Twin (Gazebo & Unity)",
+  "description": "Introduction",
+  "source": "@site/docs/module2/digital-twin-gazebo-unity.md",
+  "sourceDirName": "module2",
+  "slug": "/module2/digital-twin-gazebo-unity",
+  "permalink": "/hackathon-physical-ai-book/docs/module2/digital-twin-gazebo-unity",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/moinuddin2406/hackathon-physical-ai-book/edit/main/docs/module2/digital-twin-gazebo-unity.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "The Digital Twin (Gazebo & Unity)",
+    "sidebar_label": "Digital Twin Simulation"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "ROS 2 Fundamentals",
+    "permalink": "/hackathon-physical-ai-book/docs/module1/robotic-nervous-system-ros2"
+  },
+  "next": {
+    "title": "AI-Robot Integration",
+    "permalink": "/hackathon-physical-ai-book/docs/module3/ai-robot-brain-nvidia-isaac"
+  }
+}

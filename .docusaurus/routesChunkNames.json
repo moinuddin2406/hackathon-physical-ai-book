@@ -1,0 +1,106 @@
+{
+  "/hackathon-physical-ai-book/__docusaurus/debug-ac7": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---hackathon-physical-ai-book-docusaurus-debug-813-457"
+    }
+  },
+  "/hackathon-physical-ai-book/__docusaurus/debug/config-b61": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---hackathon-physical-ai-book-docusaurus-debug-813-457"
+    }
+  },
+  "/hackathon-physical-ai-book/__docusaurus/debug/content-743": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---hackathon-physical-ai-book-docusaurus-debug-813-457"
+    },
+    "allContent": "allContent---hackathon-physical-ai-book-docusaurus-debug-content-246-55b"
+  },
+  "/hackathon-physical-ai-book/__docusaurus/debug/globalData-4f7": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---hackathon-physical-ai-book-docusaurus-debug-813-457"
+    }
+  },
+  "/hackathon-physical-ai-book/__docusaurus/debug/metadata-5ec": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---hackathon-physical-ai-book-docusaurus-debug-813-457"
+    }
+  },
+  "/hackathon-physical-ai-book/__docusaurus/debug/registry-fb3": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---hackathon-physical-ai-book-docusaurus-debug-813-457"
+    }
+  },
+  "/hackathon-physical-ai-book/__docusaurus/debug/routes-e7f": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---hackathon-physical-ai-book-docusaurus-debug-813-457"
+    }
+  },
+  "/hackathon-physical-ai-book/auth/background-d24": {
+    "__comp": "__comp---site-src-pages-auth-background-js-966-874",
+    "__context": {
+      "plugin": "plugin---hackathon-physical-ai-book-auth-background-792-f82"
+    },
+    "config": "config---hackathon-physical-ai-book-auth-background-5-e-9-067"
+  },
+  "/hackathon-physical-ai-book/auth/login-b27": {
+    "__comp": "__comp---site-src-pages-auth-login-js-51-e-2ea",
+    "__context": {
+      "plugin": "plugin---hackathon-physical-ai-book-auth-background-792-f82"
+    },
+    "config": "config---hackathon-physical-ai-book-auth-background-5-e-9-067"
+  },
+  "/hackathon-physical-ai-book/docs-cdf": {
+    "__comp": "__comp---site-src-pages-docs-index-jsa-58-886",
+    "__context": {
+      "plugin": "plugin---hackathon-physical-ai-book-auth-background-792-f82"
+    },
+    "config": "config---hackathon-physical-ai-book-auth-background-5-e-9-067"
+  },
+  "/hackathon-physical-ai-book/docs-110": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---hackathon-physical-ai-book-docs-4-ed-5bc"
+    }
+  },
+  "/hackathon-physical-ai-book/docs-56e": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "version": "version---hackathon-physical-ai-book-docs-935-06d"
+  },
+  "/hackathon-physical-ai-book/docs-940": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/hackathon-physical-ai-book/docs/module1/robotic-nervous-system-ros2-c92": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---hackathon-physical-ai-book-docs-module-1-robotic-nervous-system-ros-2-fe-5-13e"
+  },
+  "/hackathon-physical-ai-book/docs/module2/digital-twin-gazebo-unity-6b4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---hackathon-physical-ai-book-docs-module-2-digital-twin-gazebo-unityb-0-e-5c3"
+  },
+  "/hackathon-physical-ai-book/docs/module3/ai-robot-brain-nvidia-isaac-b43": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---hackathon-physical-ai-book-docs-module-3-ai-robot-brain-nvidia-isaacfbf-39c"
+  },
+  "/hackathon-physical-ai-book/docs/module4/vision-language-action-vla-902": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---hackathon-physical-ai-book-docs-module-4-vision-language-action-vlad-7-a-99a"
+  },
+  "/hackathon-physical-ai-book/docs/rag-interface-24b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---hackathon-physical-ai-book-docs-rag-interface-1-f-7-bfe"
+  },
+  "/hackathon-physical-ai-book/-857": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---hackathon-physical-ai-book-auth-background-792-f82"
+    },
+    "config": "config---hackathon-physical-ai-book-auth-background-5-e-9-067"
+  }
+}

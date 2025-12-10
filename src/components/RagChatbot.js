@@ -47,7 +47,7 @@ const RagChatbot = ({ mode = 'full' }) => {
 
     try {
       // Call the backend API
-      const response = await fetch('/api/v1/rag/query', {
+      const response = await fetch(`${process.env.REACT_APP_API_BASE_URL || ''}/api/v1/rag/query`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -89,7 +89,7 @@ const RagChatbot = ({ mode = 'full' }) => {
     setIsLoading(true);
 
     // Call the backend API
-    fetch('/api/v1/rag/query', {
+    fetch(`${process.env.REACT_APP_API_BASE_URL || ''}/api/v1/rag/query`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',

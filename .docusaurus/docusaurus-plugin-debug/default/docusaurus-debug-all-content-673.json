@@ -1,0 +1,215 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/hackathon-physical-ai-book/docs",
+          "tagsPath": "/hackathon-physical-ai-book/docs/tags",
+          "editUrl": "https://github.com/moinuddin2406/hackathon-physical-ai-book/edit/main/docs",
+          "editUrlLocalized": "https://github.com/moinuddin2406/hackathon-physical-ai-book/edit/main/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\Moinuddin\\Desktop\\Hackathon_Book\\docusaurus\\sidebars.js",
+          "contentPath": "C:\\Users\\Moinuddin\\Desktop\\Hackathon_Book\\docusaurus\\docs",
+          "contentPathLocalized": "C:\\Users\\Moinuddin\\Desktop\\Hackathon_Book\\docusaurus\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "id": "module1/robotic-nervous-system-ros2",
+              "title": "The Robotic Nervous System (ROS 2)",
+              "description": "Introduction",
+              "source": "@site/docs/module1/robotic-nervous-system-ros2.md",
+              "sourceDirName": "module1",
+              "slug": "/module1/robotic-nervous-system-ros2",
+              "permalink": "/hackathon-physical-ai-book/docs/module1/robotic-nervous-system-ros2",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/moinuddin2406/hackathon-physical-ai-book/edit/main/docs/module1/robotic-nervous-system-ros2.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "The Robotic Nervous System (ROS 2)",
+                "sidebar_label": "ROS 2 Fundamentals"
+              },
+              "sidebar": "docs",
+              "next": {
+                "title": "Digital Twin Simulation",
+                "permalink": "/hackathon-physical-ai-book/docs/module2/digital-twin-gazebo-unity"
+              }
+            },
+            {
+              "id": "module2/digital-twin-gazebo-unity",
+              "title": "The Digital Twin (Gazebo & Unity)",
+              "description": "Introduction",
+              "source": "@site/docs/module2/digital-twin-gazebo-unity.md",
+              "sourceDirName": "module2",
+              "slug": "/module2/digital-twin-gazebo-unity",
+              "permalink": "/hackathon-physical-ai-book/docs/module2/digital-twin-gazebo-unity",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/moinuddin2406/hackathon-physical-ai-book/edit/main/docs/module2/digital-twin-gazebo-unity.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "The Digital Twin (Gazebo & Unity)",
+                "sidebar_label": "Digital Twin Simulation"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "ROS 2 Fundamentals",
+                "permalink": "/hackathon-physical-ai-book/docs/module1/robotic-nervous-system-ros2"
+              },
+              "next": {
+                "title": "AI-Robot Integration",
+                "permalink": "/hackathon-physical-ai-book/docs/module3/ai-robot-brain-nvidia-isaac"
+              }
+            },
+            {
+              "id": "module3/ai-robot-brain-nvidia-isaac",
+              "title": "The AI-Robot Brain (NVIDIA Isaac™)",
+              "description": "Introduction",
+              "source": "@site/docs/module3/ai-robot-brain-nvidia-isaac.md",
+              "sourceDirName": "module3",
+              "slug": "/module3/ai-robot-brain-nvidia-isaac",
+              "permalink": "/hackathon-physical-ai-book/docs/module3/ai-robot-brain-nvidia-isaac",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/moinuddin2406/hackathon-physical-ai-book/edit/main/docs/module3/ai-robot-brain-nvidia-isaac.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "The AI-Robot Brain (NVIDIA Isaac™)",
+                "sidebar_label": "AI-Robot Integration"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Digital Twin Simulation",
+                "permalink": "/hackathon-physical-ai-book/docs/module2/digital-twin-gazebo-unity"
+              },
+              "next": {
+                "title": "Vision-Language-Action Systems",
+                "permalink": "/hackathon-physical-ai-book/docs/module4/vision-language-action-vla"
+              }
+            },
+            {
+              "id": "module4/vision-language-action-vla",
+              "title": "Vision-Language-Action (VLA) Systems",
+              "description": "Introduction",
+              "source": "@site/docs/module4/vision-language-action-vla.md",
+              "sourceDirName": "module4",
+              "slug": "/module4/vision-language-action-vla",
+              "permalink": "/hackathon-physical-ai-book/docs/module4/vision-language-action-vla",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/moinuddin2406/hackathon-physical-ai-book/edit/main/docs/module4/vision-language-action-vla.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "Vision-Language-Action (VLA) Systems",
+                "sidebar_label": "Vision-Language-Action Systems"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "AI-Robot Integration",
+                "permalink": "/hackathon-physical-ai-book/docs/module3/ai-robot-brain-nvidia-isaac"
+              },
+              "next": {
+                "title": "RAG Chat Interface",
+                "permalink": "/hackathon-physical-ai-book/docs/rag-interface"
+              }
+            },
+            {
+              "id": "rag-interface",
+              "title": "RAG Chat Interface",
+              "description": "This page hosts the RAG (Retrieval-Augmented Generation) powered chat interface for the Physical AI & Humanoid Robotics course. To access the interactive chat, please visit the main page where the chat interface is integrated.",
+              "source": "@site/docs/rag-interface.md",
+              "sourceDirName": ".",
+              "slug": "/rag-interface",
+              "permalink": "/hackathon-physical-ai-book/docs/rag-interface",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/moinuddin2406/hackathon-physical-ai-book/edit/main/docs/rag-interface.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "title": "RAG Chat Interface"
+              },
+              "sidebar": "docs",
+              "previous": {
+                "title": "Vision-Language-Action Systems",
+                "permalink": "/hackathon-physical-ai-book/docs/module4/vision-language-action-vla"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "docs": [
+              {
+                "type": "category",
+                "label": "Physical AI & Humanoid Robotics Course",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "module1/robotic-nervous-system-ros2"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module2/digital-twin-gazebo-unity"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module3/ai-robot-brain-nvidia-isaac"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module4/vision-language-action-vla"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "rag-interface"
+                  }
+                ],
+                "collapsed": false,
+                "collapsible": true
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/hackathon-physical-ai-book/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/hackathon-physical-ai-book/auth/background",
+        "source": "@site/src/pages/auth/background.js"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/hackathon-physical-ai-book/auth/login",
+        "source": "@site/src/pages/auth/login.js"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/hackathon-physical-ai-book/docs/",
+        "source": "@site/src/pages/docs/index.js"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "chatbot-plugin": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

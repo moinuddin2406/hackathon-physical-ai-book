@@ -1,0 +1,27 @@
+{
+  "id": "module4/vision-language-action-vla",
+  "title": "Vision-Language-Action (VLA) Systems",
+  "description": "Introduction",
+  "source": "@site/docs/module4/vision-language-action-vla.md",
+  "sourceDirName": "module4",
+  "slug": "/module4/vision-language-action-vla",
+  "permalink": "/hackathon-physical-ai-book/docs/module4/vision-language-action-vla",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/moinuddin2406/hackathon-physical-ai-book/edit/main/docs/module4/vision-language-action-vla.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Vision-Language-Action (VLA) Systems",
+    "sidebar_label": "Vision-Language-Action Systems"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "AI-Robot Integration",
+    "permalink": "/hackathon-physical-ai-book/docs/module3/ai-robot-brain-nvidia-isaac"
+  },
+  "next": {
+    "title": "RAG Chat Interface",
+    "permalink": "/hackathon-physical-ai-book/docs/rag-interface"
+  }
+}

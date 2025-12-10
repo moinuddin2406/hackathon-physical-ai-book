@@ -1,0 +1,27 @@
+{
+  "id": "module3/ai-robot-brain-nvidia-isaac",
+  "title": "The AI-Robot Brain (NVIDIA Isaac™)",
+  "description": "Introduction",
+  "source": "@site/docs/module3/ai-robot-brain-nvidia-isaac.md",
+  "sourceDirName": "module3",
+  "slug": "/module3/ai-robot-brain-nvidia-isaac",
+  "permalink": "/hackathon-physical-ai-book/docs/module3/ai-robot-brain-nvidia-isaac",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/moinuddin2406/hackathon-physical-ai-book/edit/main/docs/module3/ai-robot-brain-nvidia-isaac.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "The AI-Robot Brain (NVIDIA Isaac™)",
+    "sidebar_label": "AI-Robot Integration"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Digital Twin Simulation",
+    "permalink": "/hackathon-physical-ai-book/docs/module2/digital-twin-gazebo-unity"
+  },
+  "next": {
+    "title": "Vision-Language-Action Systems",
+    "permalink": "/hackathon-physical-ai-book/docs/module4/vision-language-action-vla"
+  }
+}

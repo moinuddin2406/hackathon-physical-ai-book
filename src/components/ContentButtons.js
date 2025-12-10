@@ -14,7 +14,7 @@ const ContentButtons = ({ content, onContentUpdate }) => {
       // Get current user ID from localStorage (would be set after login)
       const userId = localStorage.getItem('userId');
       
-      const response = await fetch(`/api/v1/personalize/content`, {
+      const response = await fetch(`${process.env.REACT_APP_API_BASE_URL || ''}/api/v1/personalize/content`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -44,7 +44,7 @@ const ContentButtons = ({ content, onContentUpdate }) => {
       // Get current user ID from localStorage (would be set after login)
       const userId = localStorage.getItem('userId');
       
-      const response = await fetch(`/api/v1/translate/to-urdu`, {
+      const response = await fetch(`${process.env.REACT_APP_API_BASE_URL || ''}/api/v1/translate/to-urdu`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

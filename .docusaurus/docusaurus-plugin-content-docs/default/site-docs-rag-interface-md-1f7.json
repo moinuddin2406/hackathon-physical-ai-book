@@ -1,0 +1,22 @@
+{
+  "id": "rag-interface",
+  "title": "RAG Chat Interface",
+  "description": "This page hosts the RAG (Retrieval-Augmented Generation) powered chat interface for the Physical AI & Humanoid Robotics course. To access the interactive chat, please visit the main page where the chat interface is integrated.",
+  "source": "@site/docs/rag-interface.md",
+  "sourceDirName": ".",
+  "slug": "/rag-interface",
+  "permalink": "/hackathon-physical-ai-book/docs/rag-interface",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/moinuddin2406/hackathon-physical-ai-book/edit/main/docs/rag-interface.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "RAG Chat Interface"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Vision-Language-Action Systems",
+    "permalink": "/hackathon-physical-ai-book/docs/module4/vision-language-action-vla"
+  }
+}
