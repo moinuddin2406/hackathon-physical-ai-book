@@ -132,9 +132,9 @@
     "354": {
       "js": [
         {
-          "file": "assets/js/runtime~main.5e5889e1.js",
-          "hash": "c62cb67765c0875b",
-          "publicPath": "/hackathon-physical-ai-book/assets/js/runtime~main.5e5889e1.js"
+          "file": "assets/js/runtime~main.2c50cf96.js",
+          "hash": "d17c77e181091a98",
+          "publicPath": "/hackathon-physical-ai-book/assets/js/runtime~main.2c50cf96.js"
         }
       ]
     },
@@ -249,9 +249,9 @@
     "894": {
       "js": [
         {
-          "file": "assets/js/d7a15663.28391646.js",
-          "hash": "2fdc9a715567d3c5",
-          "publicPath": "/hackathon-physical-ai-book/assets/js/d7a15663.28391646.js"
+          "file": "assets/js/d7a15663.9b2b1c80.js",
+          "hash": "eaea3f2e05c7035d",
+          "publicPath": "/hackathon-physical-ai-book/assets/js/d7a15663.9b2b1c80.js"
         }
       ]
     }

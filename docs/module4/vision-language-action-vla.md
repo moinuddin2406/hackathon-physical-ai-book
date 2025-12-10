@@ -413,6 +413,6 @@ if __name__ == "__main__":
     run_vla_example()
 ```
 
-## Next Steps
+### Next Steps
 
-Continue to the [Capstone Project](./capstone-project) chapter to apply all the concepts learned in this course to a comprehensive robotics project that integrates ROS 2, simulation, AI, and multimodal systems.
+Capstone project will be added in the final version.
