@@ -1,0 +1,259 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "237": [
+      237
+    ],
+    "17896441": [
+      869,
+      401
+    ],
+    "main": [
+      354,
+      869,
+      792
+    ],
+    "runtime~main": [
+      792,
+      869,
+      354
+    ],
+    "1f770270": [
+      31
+    ],
+    "4ed3169d": [
+      567
+    ],
+    "51e8b6e9": [
+      576
+    ],
+    "5e95c892": [
+      647
+    ],
+    "792037ee": [
+      537
+    ],
+    "935f2afb": [
+      581
+    ],
+    "9667e3fb": [
+      175
+    ],
+    "a5852e81": [
+      598
+    ],
+    "a7bd4aaa": [
+      98
+    ],
+    "a94703ab": [
+      869,
+      48
+    ],
+    "b0e493a6": [
+      447
+    ],
+    "c4f5d8e4": [
+      634
+    ],
+    "d7a15663": [
+      894
+    ],
+    "fbf3ae52": [
+      185
+    ],
+    "fe594328": [
+      831
+    ],
+    "styles": [
+      48,
+      354,
+      401,
+      792,
+      869
+    ]
+  },
+  "assets": {
+    "31": {
+      "js": [
+        {
+          "file": "assets/js/1f770270.283978d0.js",
+          "hash": "064a63c8d3d19381",
+          "publicPath": "/hackathon-physical-ai-book/assets/js/1f770270.283978d0.js"
+        }
+      ]
+    },
+    "48": {
+      "js": [
+        {
+          "file": "assets/js/a94703ab.54705e7b.js",
+          "hash": "0e608279c13f57f9",
+          "publicPath": "/hackathon-physical-ai-book/assets/js/a94703ab.54705e7b.js"
+        }
+      ]
+    },
+    "98": {
+      "js": [
+        {
+          "file": "assets/js/a7bd4aaa.d3650600.js",
+          "hash": "4b40dd4559f95246",
+          "publicPath": "/hackathon-physical-ai-book/assets/js/a7bd4aaa.d3650600.js"
+        }
+      ]
+    },
+    "175": {
+      "js": [
+        {
+          "file": "assets/js/9667e3fb.fc1a70fe.js",
+          "hash": "c4d002df3bfb0e49",
+          "publicPath": "/hackathon-physical-ai-book/assets/js/9667e3fb.fc1a70fe.js"
+        }
+      ]
+    },
+    "185": {
+      "js": [
+        {
+          "file": "assets/js/fbf3ae52.6df48441.js",
+          "hash": "3e8d63c751bafd85",
+          "publicPath": "/hackathon-physical-ai-book/assets/js/fbf3ae52.6df48441.js"
+        }
+      ]
+    },
+    "237": {
+      "js": [
+        {
+          "file": "assets/js/237.e5da148d.js",
+          "hash": "8eba06a9cb1a8e17",
+          "publicPath": "/hackathon-physical-ai-book/assets/js/237.e5da148d.js"
+        }
+      ]
+    },
+    "354": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.5e5889e1.js",
+          "hash": "c62cb67765c0875b",
+          "publicPath": "/hackathon-physical-ai-book/assets/js/runtime~main.5e5889e1.js"
+        }
+      ]
+    },
+    "401": {
+      "js": [
+        {
+          "file": "assets/js/17896441.d158625d.js",
+          "hash": "cf54d010ce6020ac",
+          "publicPath": "/hackathon-physical-ai-book/assets/js/17896441.d158625d.js"
+        }
+      ]
+    },
+    "447": {
+      "js": [
+        {
+          "file": "assets/js/b0e493a6.30f2dd70.js",
+          "hash": "210dceab45b0bd93",
+          "publicPath": "/hackathon-physical-ai-book/assets/js/b0e493a6.30f2dd70.js"
+        }
+      ]
+    },
+    "537": {
+      "js": [
+        {
+          "file": "assets/js/792037ee.fd773512.js",
+          "hash": "56888448b5c54988",
+          "publicPath": "/hackathon-physical-ai-book/assets/js/792037ee.fd773512.js"
+        }
+      ]
+    },
+    "567": {
+      "js": [
+        {
+          "file": "assets/js/4ed3169d.01b233ad.js",
+          "hash": "c8e90ebb20cc75dc",
+          "publicPath": "/hackathon-physical-ai-book/assets/js/4ed3169d.01b233ad.js"
+        }
+      ]
+    },
+    "576": {
+      "js": [
+        {
+          "file": "assets/js/51e8b6e9.cdec5016.js",
+          "hash": "44ab11d737d42aaf",
+          "publicPath": "/hackathon-physical-ai-book/assets/js/51e8b6e9.cdec5016.js"
+        }
+      ]
+    },
+    "581": {
+      "js": [
+        {
+          "file": "assets/js/935f2afb.eb280391.js",
+          "hash": "20eed7b1844578d2",
+          "publicPath": "/hackathon-physical-ai-book/assets/js/935f2afb.eb280391.js"
+        }
+      ]
+    },
+    "598": {
+      "js": [
+        {
+          "file": "assets/js/a5852e81.9e5f27e8.js",
+          "hash": "fa22c3266c467912",
+          "publicPath": "/hackathon-physical-ai-book/assets/js/a5852e81.9e5f27e8.js"
+        }
+      ]
+    },
+    "634": {
+      "js": [
+        {
+          "file": "assets/js/c4f5d8e4.7e54fc66.js",
+          "hash": "c040ee80d791a613",
+          "publicPath": "/hackathon-physical-ai-book/assets/js/c4f5d8e4.7e54fc66.js"
+        }
+      ]
+    },
+    "647": {
+      "js": [
+        {
+          "file": "assets/js/5e95c892.20d2868d.js",
+          "hash": "8f23f761222620df",
+          "publicPath": "/hackathon-physical-ai-book/assets/js/5e95c892.20d2868d.js"
+        }
+      ]
+    },
+    "792": {
+      "js": [
+        {
+          "file": "assets/js/main.a08aebe4.js",
+          "hash": "0105cbda1b196cf5",
+          "publicPath": "/hackathon-physical-ai-book/assets/js/main.a08aebe4.js"
+        }
+      ]
+    },
+    "831": {
+      "js": [
+        {
+          "file": "assets/js/fe594328.0dc9933d.js",
+          "hash": "66d76c38cf47b51b",
+          "publicPath": "/hackathon-physical-ai-book/assets/js/fe594328.0dc9933d.js"
+        }
+      ]
+    },
+    "869": {
+      "css": [
+        {
+          "file": "assets/css/styles.0d3dc5f1.css",
+          "hash": "ec6b10b43828a5c9",
+          "publicPath": "/hackathon-physical-ai-book/assets/css/styles.0d3dc5f1.css"
+        }
+      ]
+    },
+    "894": {
+      "js": [
+        {
+          "file": "assets/js/d7a15663.28391646.js",
+          "hash": "2fdc9a715567d3c5",
+          "publicPath": "/hackathon-physical-ai-book/assets/js/d7a15663.28391646.js"
+        }
+      ]
+    }
+  }
+}

@@ -11,17 +11,12 @@
   ],
   "routes": [
     {
-      "src": "/api/(.*)",
-      "dest": "${BACKEND_API_URL}/api/$1",
-      "headers": {
-        "Access-Control-Allow-Origin": "*",
-        "Access-Control-Allow-Methods": "GET, POST, PUT, DELETE, OPTIONS",
-        "Access-Control-Allow-Headers": "X-Requested-With, Content-Type, Accept"
-      }
-    },
-    {
       "src": "/(.*)",
       "dest": "/$1"
     }
-  ]
+  ],
+  "github": {
+    "enabled": true,
+    "autoJobCancelation": true
+  }
 }
