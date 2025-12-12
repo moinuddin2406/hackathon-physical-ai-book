@@ -2,7 +2,7 @@
   "version": 2,
   "builds": [
     {
-      "src": "package.json",
+      "src": "docusaurus/package.json",
       "use": "@vercel/static-build",
       "config": {
         "distDir": "build"
@@ -12,7 +12,11 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "/$1"
+      "dest": "docusaurus/$1"
     }
-  ]
+  ],
+  "github": {
+    "enabled": true,
+    "autoJobCancelation": true
+  }
 }
